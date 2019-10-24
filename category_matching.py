@@ -31,3 +31,12 @@ model.wmdistance("AGD Lodówki i zamrażarki Lodówki z zamrażalnikiem", "AGD L
 #1.1486862892547698
 
 
+model.wmdistance("Gry i Konsole Gry komputerowe", "Gry i konsole Gry PS4")
+#1.5863442374911145
+
+
+model.wmdistance("Gry i Konsole Gry komputerowe", "Gry i konsole Gry na komputer")
+#0.6836574053211452
+
+
+
