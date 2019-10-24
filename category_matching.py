@@ -40,3 +40,21 @@ model.wmdistance("Gry i Konsole Gry komputerowe", "Gry i konsole Gry na komputer
 
 
 
+model.wmdistance("Gry i Konsole Gry komputerowe", "\n\t\t\t\t\n\n\n")
+#inf
+
+
+
+
+
+model.wmdistance("Gry i Konsole Gry komputerowe", "][;.;.][.;']")
+#inf
+
+
+model.wmdistance("Gry i Konsole Gry komputerowe", "420420420")
+#5.156925304373973
+
+
+
+model.wmdistance("Gry i Konsole Gry komputerowe", "Gry i Konsole Gry na lodówkę")
+#1.3884089225257872
